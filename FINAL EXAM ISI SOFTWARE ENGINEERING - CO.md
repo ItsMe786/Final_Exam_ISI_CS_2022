@@ -60,7 +60,7 @@ ___________________text____________________
 
 1. How does one attach a newly created HTML element to a linked HTML file? (1 point)
 
-_______________________________________
+_________________appendChild______________________
 
 Part III: Mini-JS-Project (11 points total)
 
